@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+body {
+    background-color: grey;
+}
+
+h1, p {
+    color: #6ddccf;
+    text-align: center;
+    font-family:'Lobster', cursive;
+}
+
+p {
+    font-size: 2rem;
+    font-family: 'Courgette', cursive;
+}
+
+.header {
+    font-weight: bolder;
+    font-size: 6rem;
+    letter-spacing: 2px;
+    padding: 5% 0;
+}
+
+.img1 {
+    margin: 0 auto;
+    display: block;
+}
+
+.img2 {
+    margin: 0 auto;
+    display: block;
+}
+
+.play-button {
+    display: block;
+    margin: 5rem auto;
+}
+
+footer {
+    text-align: center;
+    padding: 10% 0;
+    color: white;
+    font-family:'Courgette', cursive;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    font-size: small;
+    opacity: 70%;
+}
